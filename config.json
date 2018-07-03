@@ -1,0 +1,15 @@
+{
+    "title": "Test Ambassadors Pages data",
+    "baseURL": "https:\/\/eee.sds.xcx",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sds.xcx"
+    }
+}
